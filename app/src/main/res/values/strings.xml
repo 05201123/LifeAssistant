@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyLifeAssistant</string>
+    <string name="cost_record_name">每日消费记录</string>
+    <string name="cost_query_name">查询消费记录</string>
+</resources>
